@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <rect width="240" height="240" rx="120" fill="#eef4ff"/>
+  <circle cx="120" cy="92" r="42" fill="#8fb8ff"/>
+  <path d="M48 206c10-44 39-68 72-68s62 24 72 68" fill="#5f8ee6"/>
+  <text x="120" y="224" text-anchor="middle" font-size="20" fill="#335" font-family="Arial, sans-serif">Blog</text>
+</svg>

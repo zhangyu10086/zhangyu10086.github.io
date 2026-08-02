@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef4ff"/>
+      <stop offset="1" stop-color="#d9e8ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" rx="32" fill="url(#g)"/>
+  <circle cx="220" cy="170" r="80" fill="#ffffff" opacity="0.55"/>
+  <circle cx="1010" cy="520" r="120" fill="#ffffff" opacity="0.45"/>
+  <text x="600" y="320" text-anchor="middle" font-size="58" fill="#335" font-family="Arial, sans-serif" font-weight="700">张宇的博客</text>
+  <text x="600" y="392" text-anchor="middle" font-size="28" fill="#667" font-family="Arial, sans-serif">记录学习、技术和生活</text>
+</svg>
